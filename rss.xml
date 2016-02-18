@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Darien R Mosaics]]></title>
+        <description><![CDATA[Darien R Mosaics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 11:42:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Darien R Mosaics]]></title>
+            <description><![CDATA[<article><h1>Darien R Mosaics</h1><p>Beautiful Mosaics design made 100% to your requirements. Mosaic Crosses , Mosaic Mirrors , Mosaic Jewelry Boxes , Mosaic Trays and much more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c651080ef3222109b6b169e65597928d97798f.jpg"></article>]]></description>
+            <link>undefineddarien-r-mosaics/index.html</link>
+            <guid isPermaLink="false">b3faa13e-4b34-4aa1-95bd-44c9d388fac0</guid>
+            <pubDate>Thu, 18 Feb 2016 11:42:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
